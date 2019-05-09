@@ -1,1 +1,0 @@
-https://www.computerhistory.org/atchm/xerox-alto-source-code/
